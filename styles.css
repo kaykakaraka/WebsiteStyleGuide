@@ -1,5 +1,5 @@
 h1 {
-  font-family: 'exo-2', sans-serif;
+  font-family: 'Barlow', sans-serif;
   font-weight: 300;
   text-align: center;
   color:hsl(342 77% 46% / 0.84);
@@ -7,13 +7,15 @@ h1 {
 }
 
 h2 {
-  font-family: 'Barlow', sans-serif;
+  font-family: 'Exo 2', sans-serif;
   text-align: center;
   color:hsl(120 30% 50% / 0.95);
+  font-weight: 600;
 }
 
 p {
   font-family: 'Rajdhani', sans-serif;
+  font-weight: 300;
 }
 
 .colour-palette {
@@ -70,4 +72,13 @@ p {
   font-family: 'Rajdhani', sans-serif;
 }
 
+.styles-container {
+  text-align: center;
+  margin: 0 20%;
+}
 
+.styles-box {
+  padding: 20px 40px;
+  position: relative;
+  border: 1px dashed black;
+}
