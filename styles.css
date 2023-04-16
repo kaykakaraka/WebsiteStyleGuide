@@ -1,3 +1,19 @@
+h1 {
+  font-family: 'exo-2', sans-serif;
+  font-weight: 300;
+  text-align: center;
+  color:hsl(342 77% 46% / 0.84);
+  font-size: 60px;
+}
+
+h2 {
+  font-family: 'Barlow', sans-serif;
+}
+
+p {
+  font-family: 'Rajdhani', sans-serif;
+}
+
 .gold {
   background-color: hsl(60 69% 51% / 0.91);
   color: white;
@@ -23,14 +39,16 @@
   color: white;
 }
 
-.barlow {
+.barlow p {
   font-family: 'Barlow', sans-serif;
 }
 
-.exo-2 {
+.exo-2 p {
   font-family: 'Exo 2', sans-serif;
 }
 
-.rajdhani {
+.rajdhani p {
   font-family: 'Rajdhani', sans-serif;
 }
+
+
