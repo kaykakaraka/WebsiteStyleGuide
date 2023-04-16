@@ -1,0 +1,24 @@
+.gold {
+  background-color: hsl(60 69% 51% / 0.91);
+  color: white;
+}
+
+.darker-green {
+  background-color:hsl(120 30% 50% / 0.95);
+  color: white;
+}
+
+.lighter-green {
+  background-color: hsl(120 30% 50% / 0.46);
+  color: black;   
+}
+
+.lighter-gold {
+  background-color: hsl(60 69% 51% / 0.46);
+  color: black;
+}
+
+.hot-pink {
+  background-color: hsl(342 77% 46% / 0.84);
+  color: white;
+}
