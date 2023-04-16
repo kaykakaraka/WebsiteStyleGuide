@@ -8,10 +8,18 @@ h1 {
 
 h2 {
   font-family: 'Barlow', sans-serif;
+  text-align: center;
+  color:hsl(120 30% 50% / 0.95);
 }
 
 p {
   font-family: 'Rajdhani', sans-serif;
+}
+
+.colour-palette {
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
 }
 
 .gold {
@@ -37,6 +45,17 @@ p {
 .hot-pink {
   background-color: hsl(342 77% 46% / 0.84);
   color: white;
+}
+
+.font-container {
+  display: inline-block;
+  margin: 0 15%;
+}
+
+.font-box {
+  float: left;
+  padding: 5px;
+  margin: 0 auto;
 }
 
 .barlow p {
